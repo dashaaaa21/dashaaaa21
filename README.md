@@ -22,9 +22,10 @@ Hi there! 👋 I'm Dasha, a passionate Frontend Developer based in the Netherlan
 </p>
 
 ---
-💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,git,xd,pr,ae,ai,ps,indesign" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,git,ae,ai,ps" alt="Tech Stack">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="InDesign" width="48" height="48">
 </p>
 
 ---
