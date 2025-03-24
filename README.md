@@ -1,11 +1,40 @@
 # 💫 About Me:
-Hi there! 👋 I'm Dasha<br>🚀 Passionate Frontend Developer based in the Netherlands 🇳🇱<br><br>💡 I love crafting clean, user-friendly interfaces and bringing designs to life with modern web technologies. Constantly learning and exploring new ways to create engaging and responsive web applications.<br><br>🔧 Tech Stack:<br>🔹 HTML | CSS <br>🔹 UI/UX Design | Figma | Git<br><br>📚 Currently expanding my skills in frontend development and looking for exciting projects to contribute to!<br><br>💬 Let's connect and build something amazing together!
+Hi there! 👋 I'm Dasha, a passionate Frontend Developer based in the Netherlands 🇳🇱. I specialize in crafting interactive, user-friendly interfaces and building modern, responsive web applications.
+
+💡 My expertise lies in blending UI/UX principles with front-end technologies to create seamless digital experiences. I have a strong background in design, ensuring visually stunning and highly functional web solutions. Always eager to learn and stay updated with the latest industry trends.
 
 
+- **Frontend:** HTML, CSS
+- **Design & Tools:** UI/UX Design, Figma, Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, XD, InDesign), Blender
+
+📚 Currently improving my frontend development skills and working on exciting design projects!
+
+💬 Let's connect and create something amazing together!
+
+---
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dashaa.tk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daryna2003tk@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dashaa.tk) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dashaatk) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daryna2003tk@gmail.com)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
+## 🚀 Animated Introduction
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+New+Technology" alt="Typing SVG">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,git,xd,pr,ae,ai" alt="Tech Stack">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dashaaaa21&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+---
+<h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
+
+
