@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About me:
 
 👋 Hi there!  I'm Daria, and I'm just beginning my journey in frontend development. I'm currently taking courses to master the creation of modern, responsive web applications.
 
