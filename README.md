@@ -4,7 +4,7 @@
 
 💡 I have experience in design, which helps me combine UI/UX principles with web technologies to create user-friendly and stylish interfaces. I'm improving my frontend skills and actively working on new projects.
 
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, JS, Tailwind, Git, GitHub
 - **Design & Tools:** UI/UX Design, Figma, Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, XD, InDesign), Blender
 
 📚 Currently taking frontend development courses and deepening my knowledge in web design.
