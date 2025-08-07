@@ -16,9 +16,9 @@
 
 ---
 ## 🚀 Animated Introduction
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+New+Technology" alt="Typing SVG">
-</p>
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+New+Technology" alt="Typing SVG" />
+</div>
 
 ---
 ## 💻 Tech Stack:
