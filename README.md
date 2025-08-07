@@ -12,7 +12,7 @@
 💬 Always open to new connections and exciting opportunities! 🚀
 ---
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dashaa.tk) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dashaatk) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daryna2003tk@gmail.com)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dashaatk) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daryna2003tk@gmail.com)
 
 ---
 ## 🚀 Animated Introduction
