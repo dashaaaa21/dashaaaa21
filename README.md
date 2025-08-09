@@ -1,6 +1,6 @@
 # 💫 About me:
 
-👋 Hi there!  I'm Daria, and I'm just beginning my journey in frontend development. I'm currently taking courses to master the creation of modern, responsive web applications.
+👋 Hi there!!!  I'm Daria, and I'm just beginning my journey in frontend development. I'm currently taking courses to master the creation of modern, responsive web applications.
 
 💡 I have experience in design, which helps me combine UI/UX principles with web technologies to create user-friendly and stylish interfaces. I'm improving my frontend skills and actively working on new projects.
 
