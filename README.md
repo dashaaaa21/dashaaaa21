@@ -9,7 +9,7 @@
 
 📚 Currently taking frontend development courses and deepening my knowledge in web design.
 
-💬 Always open to new connections and exciting opportunities! 🚀
+💬 Always open to new connections and exciting opportunities 🚀
 ---
 ## 🌐 Socials:
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dashaatk) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daryna2003tk@gmail.com)
