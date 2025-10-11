@@ -1,13 +1,46 @@
-# 💫 About me:
+# Hi there 👋, I'm Daria
 
-👋 Hi there!  I'm Daria, and I'm just beginning my journey in frontend development. I'm currently taking courses to master the creation of modern, responsive web applications.
+I'm beginning my journey in **full-stack development** and currently taking courses to master the creation of modern, responsive web applications.  
 
-💡 I have experience in design, which helps me combine UI/UX principles with web technologies to create user-friendly and stylish interfaces. I'm improving my frontend skills and actively working on new projects.
+💡 I have a background in **design**, which helps me combine UI/UX principles with web technologies to create user-friendly and stylish interfaces. I'm continuously improving my full-stack skills and actively working on new projects.  
 
-- **Frontend:** HTML, CSS, JS, Tailwind, Sass/SCSS, Bootstrap, Git, GitHub
-- **Design & Tools:** UI/UX Design, Figma, Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, InDesign)
+---
 
-📚 Currently taking frontend development courses and deepening my knowledge in web design.
+### Frontend
+- HTML, CSS, JavaScript  
+- Tailwind, Sass/SCSS, Bootstrap
+- TypeScript  
+- React (currently learning)  
+- Git, GitHub  
+- UI/UX Design, Figma, Graphic design 
+
+### Backend / Full-Stack
+- Node.js, Express.js  
+- RESTful APIs  
+- SQL (PostgreSQL), NoSQL (MongoDB, currently learning)  
+- Fetch / Async-Await  
+- Networking Basics  
+
+### Other Tools
+- Chrome DevTools, CLI (Ubuntu/Linux)  
+- Jest  
+- Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, Lightroom, InDesign)  
+- Data Structures & Algorithms  
+
+---
+
+## 📚 Currently Learning
+- React  
+- NoSQL (MongoDB)  
+- Python  
+
+---
+
+---
+
+## 📚 Currently Learning
+
+React, NoSQL (MongoDB), Python  
 
 💬 Always open to new connections and exciting opportunities 🚀🚀🚀
 ---
