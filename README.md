@@ -33,13 +33,6 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 - NoSQL (MongoDB)  
 - Python  
 
----
-
----
-
-## 📚 Currently Learning
-
-React, NoSQL (MongoDB), Python  
 
 💬 Always open to new connections and exciting opportunities 🚀🚀🚀
 ---
