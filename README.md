@@ -13,7 +13,7 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 - Git, GitHub  
 - UI/UX Design, Figma, Graphic design 
 
-### Backend / Full-Stack
+### Backend 
 - Node.js, Express.js  
 - RESTful APIs  
 - SQL (PostgreSQL) 
