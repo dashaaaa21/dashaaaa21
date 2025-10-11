@@ -10,14 +10,13 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 - HTML, CSS, JavaScript  
 - Tailwind, Sass/SCSS, Bootstrap
 - TypeScript  
-- React (currently learning)  
 - Git, GitHub  
 - UI/UX Design, Figma, Graphic design 
 
 ### Backend / Full-Stack
 - Node.js, Express.js  
 - RESTful APIs  
-- SQL (PostgreSQL), NoSQL (MongoDB, currently learning)  
+- SQL (PostgreSQL) 
 - Fetch / Async-Await  
 - Networking Basics  
 
