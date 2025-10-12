@@ -46,13 +46,6 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 </p>
 
 ---
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,ae,ai,ps" alt="Tech Stack">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="InDesign" width="48" height="48">
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
