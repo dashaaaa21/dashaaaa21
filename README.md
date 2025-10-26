@@ -29,7 +29,6 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 ## 📚 Currently Learning
 - React  
 - NoSQL (MongoDB) , SQL (PostgreSQL) 
-- Python
 - Node.js, Express.js
 
 
