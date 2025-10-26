@@ -43,14 +43,6 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Always+Learning+New+Technology" alt="Typing SVG">
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dashaaaa21&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
 ---
 <h3 align="center">🚀 Let's Build Something Amazing Together! 🚀</h3>
 
