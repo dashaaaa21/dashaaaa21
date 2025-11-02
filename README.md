@@ -14,7 +14,9 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 - UI/UX Design, Figma, Graphic design 
 
 ### Backend 
-- RESTful APIs  
+- RESTful APIs
+- Node.js
+- Express
 - Fetch / Async-Await  
 - Networking Basics  
 
@@ -29,7 +31,7 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 ## 📚 Currently Learning
 - React  
 - NoSQL (MongoDB) , SQL (PostgreSQL) 
-- Node.js, Express.js
+
 
 
 
