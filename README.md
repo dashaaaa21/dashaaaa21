@@ -33,8 +33,6 @@ I'm beginning my journey in **full-stack development** and currently taking cour
 - NoSQL (MongoDB) , SQL (PostgreSQL) 
 
 
-
-
 💬 Always open to new connections and exciting opportunities 🚀🚀🚀
 ---
 ## 🌐 Socials:
