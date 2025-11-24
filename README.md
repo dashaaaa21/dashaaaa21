@@ -2,7 +2,7 @@
 
 I'm beginning my journey in **full-stack development** and currently taking courses to master the creation of modern, responsive web applications.  
 
-💡 I have a background in design, which helps me combine UI/UX principles with web technologies to create user-friendly and stylish interfaces. I'm continuously improving my full-stack skills and actively working on new projects
+💡 I have a background in design, which helps me combine UI/UX principles with web technologies to create user-friendly and stylish interfaces. I'm continuously improving my full-stack skills and actively working on new projects!
 
 ---
 
