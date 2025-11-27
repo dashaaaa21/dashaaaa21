@@ -7,7 +7,8 @@ I'm beginning my journey in *full-stack development* and currently taking course
 ---
 
 ### Frontend
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript
+- React 
 - Tailwind, Sass/SCSS, Bootstrap
 - TypeScript  
 - Git, GitHub  
