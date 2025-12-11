@@ -1,4 +1,4 @@
-# Hi there, I'm Daria!
+# Hi there, I'm Daria!!!
 
 I'm beginning my journey in full-stack development and currently taking courses to master the creation of modern, responsive web applications.  
 
