@@ -6,32 +6,60 @@ I'm beginning my journey in full-stack development and currently taking courses 
 
 ---
 
-### Frontend
-- HTML, CSS, JavaScript
-- React 
-- Tailwind, Sass/SCSS, Bootstrap
-- TypeScript  
-- Git, GitHub  
-- UI/UX Design, Figma, Graphic design 
+## 💻 Technical Skills
 
-### Backend 
-- RESTful APIs
-- Node.js
-- Express
-- Fetch / Async-Await  
+### Frontend
+- HTML, CSS, JavaScript  
+- React  
+- TypeScript  
+- Tailwind CSS, Sass / SCSS, Bootstrap  
+- Git, GitHub  
+- UI/UX Design  
+- Figma  
+- Graphic Design  
+
+### Backend
+- Node.js  
+- Express.js  
+- RESTful APIs  
+- Fetch API, Async / Await  
 - Networking Basics  
 
-### Other Tools
-- Chrome DevTools, CLI (Ubuntu/Linux)  
+### Databases
+- SQL (PostgreSQL)  
+- NoSQL (MongoDB)  
+
+### APIs
+- Working with external APIs  
+- REST architecture  
+
+### Testing & Debugging
+- Chrome DevTools  
 - Jest  
-- Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro, Lightroom, InDesign)  
-- Data Structures & Algorithms  
+
+### Version Control & DevOps
+- Git  
+- Command Line Interface (CLI)  
+- Docker  
+
+### Computer Science Fundamentals
+- Data Structures  
+- Algorithms  
+
+### Design Tools
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Adobe After Effects  
+- Adobe Premiere Pro  
+- Adobe Lightroom  
+- Adobe InDesign  
 
 ---
 
 ## 📚 Currently Learning
 - React  
-- NoSQL (MongoDB) , SQL (PostgreSQL) 
+- Advanced JavaScript & TypeScript  
+- Modern Frontend Architecture  
 
 
 💬 Always open to new connections and exciting opportunities 🚀🚀🚀
