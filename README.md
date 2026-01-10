@@ -40,7 +40,8 @@ I'm beginning my journey in full-stack development and currently taking courses 
 ### Version Control & DevOps
 - Git  
 - Command Line Interface (CLI)  
-- Docker  
+- Docker
+- CI CD
 
 ### Computer Science Fundamentals
 - Data Structures  
