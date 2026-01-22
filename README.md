@@ -13,10 +13,7 @@ I'm beginning my journey in full-stack development and currently taking courses 
 - React  
 - TypeScript  
 - Tailwind CSS, Sass / SCSS, Bootstrap  
-- Git, GitHub  
-- UI/UX Design  
-- Figma  
-- Graphic Design  
+- Git, GitHub
 
 ### Backend
 - Node.js  
@@ -54,7 +51,10 @@ I'm beginning my journey in full-stack development and currently taking courses 
 - Adobe Premiere Pro  
 - Adobe Lightroom  
 - Adobe InDesign  
-
+- UI/UX Design  
+- Figma  
+- Graphic Design
+  
 ---
 
 ## 📚 Currently Learning
