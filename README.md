@@ -59,7 +59,6 @@ I'm beginning my journey in full-stack development and currently taking courses 
 
 ## 📚 Currently Learning
 - React  
-- Advanced JavaScript & TypeScript  
 - Modern Frontend Architecture  
 
 
