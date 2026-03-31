@@ -8,6 +8,7 @@ I’m continuously improving my full-stack skills and actively working on new pr
 Telagram: @dashaatk
 
 Gmail: daryna2003tk@gmail.com
+
 ---
 
 ## 💻 Technical Skills
