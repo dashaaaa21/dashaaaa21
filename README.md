@@ -6,6 +6,7 @@ I’m starting my journey in full-stack development and recently completed the F
 I’m continuously improving my full-stack skills and actively working on new projects.
 
 Telagram: @dashaatk
+
 Gmail: daryna2003tk@gmail.com
 ---
 
