@@ -5,6 +5,8 @@ I’m starting my journey in full-stack development and recently completed the F
 💡 I have a background in design, which allows me to combine UI/UX principles with web technologies to create user-friendly and visually appealing interfaces. I also hold a degree in Information Technology.
 I’m continuously improving my full-stack skills and actively working on new projects.
 
+Telagram: @dashaatk
+Gmail: daryna2003tk@gmail.com
 ---
 
 ## 💻 Technical Skills
