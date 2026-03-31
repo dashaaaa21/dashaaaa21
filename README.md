@@ -44,15 +44,8 @@ I’m continuously improving my full-stack skills and actively working on new pr
 - CI CD
 
 ### Design Tools
-- Adobe Photoshop  
-- Adobe Illustrator  
-- Adobe After Effects  
-- Adobe Premiere Pro  
-- Adobe Lightroom  
-- Adobe InDesign  
-- UI/UX Design  
+- Adobe Creative Cloude
 - Figma  
-- Graphic Design
   
 ---
 
