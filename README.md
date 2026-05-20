@@ -13,37 +13,20 @@ Gmail: daryna2003tk@gmail.com
 
 ## 💻 Technical Skills
 
-### Frontend
-- HTML, CSS, JavaScript  
 - React
 - NextJs
+- Python
+- JavaScript  
 - TypeScript  
 - Tailwind CSS, Sass / SCSS, Bootstrap  
-
-
-### Backend
 - Node.js  
 - Express.js  
 - RESTful APIs  
-- Fetch API, Async / Await  
-- Networking Basics  
-
-### Databases
+- Networking 
 - SQL (PostgreSQL)  
 - NoSQL (MongoDB)  
-
-### APIs
-- Working with external APIs  
-- REST architecture  
-
-### Testing & Debugging
-- Chrome DevTools  
 - Jest
 - Express
-
-### Version Control & DevOps
-- Git  
-- Command Line Interface (CLI)  
 - Docker
 - CI CD
 
