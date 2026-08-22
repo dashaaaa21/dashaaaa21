@@ -29,6 +29,7 @@ Gmail: daryna2003tk@gmail.com
 - Express
 - Docker
 - CI CD
+- AI
 
 ### Design Tools
 - Adobe Creative Cloude
