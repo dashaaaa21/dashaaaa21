@@ -1,9 +1,6 @@
 # Hi there, I'm Daria!
 
-I’m starting my journey in full-stack development and recently completed the Full-Stack program at Hack Your Future in Amsterdam.
-
-💡 I have a background in design, which allows me to combine UI/UX principles with web technologies to create user-friendly and visually appealing interfaces. I also hold a degree in Information Technology.
-I’m continuously improving my full-stack skills and actively working on new projects.
+I am an AI Engineer with a background in full-stack development and experience building web applications, working with APIs, databases, and AI tools. I enjoy developing practical AI solutions, automating workflows, and building AI assistants that solve real business problems. I am always interested in exploring new AI technologies and turning ideas into useful applications.
 
 Telagram: @dashaatk
 
@@ -13,32 +10,10 @@ Gmail: daryna2003tk@gmail.com
 
 ## 💻 Technical Skills
 
-- React
-- NextJs
-- Python
-- JavaScript  
-- TypeScript  
-- Tailwind CSS, Sass / SCSS, Bootstrap  
-- Node.js  
-- Express.js  
-- RESTful APIs  
-- Networking 
-- SQL (PostgreSQL)  
-- NoSQL (MongoDB)  
-- Jest
-- Express
-- Docker
-- CI CD
-- AI
 
-### Design Tools
-- Adobe Creative Cloude
-- Figma  
+Python, JavaScript, TypeScript, React, Node.js, Express.js, OpenAI SDK, LangChain, Semantic Kernel, Azure, Microsoft Fabric, SAP, LLMs, AI Agents, REST APIs, Postman, E2E Testing, n8n, SQL, MongoDB, Git, WordPress, AI Automation
+
   
----
-
-
-💬 Always open to new connections and exciting opportunities 🚀🚀🚀
 
 ---
 ## 🚀 Animated Introduction
